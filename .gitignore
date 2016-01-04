@@ -1,0 +1,6 @@
+*.so.*
+*.so
+*.o
+moc_*.cpp
+ui_*.h
+Makefile
